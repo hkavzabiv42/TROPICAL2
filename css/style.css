@@ -117,7 +117,7 @@ video{
 	color: black;
 }
 @media screen (min-width: 360px) {
-	.text1{
+	h1{
 		font-size: 16px;
 	}
 }
